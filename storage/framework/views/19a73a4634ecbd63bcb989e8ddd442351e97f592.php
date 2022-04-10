@@ -1,0 +1,1 @@
+<button type="submit" class="btn btn-primary mt-2">Submit</button><?php /**PATH C:\xampp\htdocs\resume-builder\resume-builder1\resources\views/components/form/submit.blade.php ENDPATH**/ ?>
